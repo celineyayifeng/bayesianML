@@ -1,3 +1,3 @@
 # Bayesian ML Final Project 
-The dataset was downloaded from Kaggle: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data and saved as 'data.csv'. 
+The breast canncer dataset was downloaded from Kaggle: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data and saved as 'data.csv' in the local machine. 
 The csv file was loaded through Colab's file upload.
